@@ -78,7 +78,7 @@ Open the file `dist/index.html` in your browser
 
 ## Submitting your work
 
-When you have finished, please ensure you have committed your work and then create a git backup by running the command below (substituting your name) and attach it to your Jira Service Desk job application issue.
+When you have finished, please ensure you have committed your work and then create a git backup by running the command below (substituting your name) and reply via email to us on the thread you were sent the takehome.
 
 ```
 git bundle create your-name.git --all
